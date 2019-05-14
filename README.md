@@ -10,5 +10,9 @@ They are all in GIMP xcf format so you can edit and mess around with them all yo
 All of them are very pixelated (And pixel-perfect!, no aliasing here!), since they were made for me to use in my games, 
 and almost all of them use oldschool graphics..
 
-If you do decide to use them, please add a little credit to me in the credits or something like that!
-No problems if you dont, or have some reason not to, but it would be nice!
+If you do decide to use them, please add a little credit to me in the credits or something like that,
+no problems if you dont, but it would be very excellent!
+
+------------------
+Affonso Amendola
+Be Excellent to each other!
