@@ -1,7 +1,7 @@
-# fonts
-Fofonso's Fonts
+# Foffonso's Fonts
 
 Hello!
+
 
 Here are a bunch of fonts I've been making for a while, if you like them, please use them!
 
